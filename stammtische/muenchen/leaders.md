@@ -4,7 +4,7 @@
 * Test2 <u><a rel="nofollow" class="external text" href="mailto:t2.test@example.com">@&#10138;</a></u>
 * Test3 <u><a rel="nofollow" class="external text" href="mailto:t3.test@example.com">@&#10166;</a></u>
 * Test4 <SCRIPT>
-  document.write('<u>\a rel="nofollow" href="mailto:' + 'firstname.name' + '@example.com">@</a></u>')
+  document.write('<u><a rel="nofollow" href="mailto:' + 'firstname.name' + '@example.com">@</a></u>')
 </SCRIPT>
 * Test5 
 <SCRIPT TYPE="text/javascript">
